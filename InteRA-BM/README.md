@@ -33,4 +33,8 @@ The citation details will be added following publication of the associated resea
 
 ### Contact
 
-For questions regarding the implementation, please contact the corresponding author.
+For correspondence regarding the InteRA-BM framework, please contact:
+
+**Dr. Chandan Dharmashekar**  
+Corresponding Author  
+Email: chandand@jssuni.edu.in
