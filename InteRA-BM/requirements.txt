@@ -1,0 +1,10 @@
+# InteRA-BM Python dependencies
+
+numpy
+pandas
+scikit-learn
+boruta
+matplotlib
+seaborn
+shap
+joblib
